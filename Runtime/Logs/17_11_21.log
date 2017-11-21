@@ -1,0 +1,27 @@
+[ 2017-11-21T17:16:26+08:00 ] ::1 /mynet/
+ERR: Unknown database 'mynet'
+
+[ 2017-11-21T17:16:31+08:00 ] ::1 /mynet/
+ERR: Unknown database 'mynet'
+
+[ 2017-11-21T17:16:45+08:00 ] ::1 /mynet/
+ERR: Unknown database 'mynet'
+
+[ 2017-11-21T17:16:57+08:00 ] ::1 /mynet/index.php
+ERR: Unknown database 'mynet'
+
+[ 2017-11-21T17:17:58+08:00 ] ::1 /mynet/
+ERR: Unknown database 'mynet'
+
+[ 2017-11-21T17:18:25+08:00 ] ::1 /mynet/
+ERR: Unknown database 'mynet'
+
+[ 2017-11-21T17:18:32+08:00 ] ::1 /mynet/
+ERR: Unknown database 'mynet'
+
+[ 2017-11-21T17:18:53+08:00 ] ::1 /mynet/index.php?s=/admin/public/login.html
+ERR: Unknown database 'mynet'
+
+[ 2017-11-21T17:19:05+08:00 ] ::1 /mynet/index.php?s=/admin/public/login.html
+ERR: Unknown database 'mynet'
+
